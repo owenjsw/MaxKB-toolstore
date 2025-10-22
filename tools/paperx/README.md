@@ -26,3 +26,8 @@
 | -------- | -------- | -------- | ------ |
 | `api_key`   | 字符串   | API-KEY，请参见MaxKB右上角头像中API KEY | 'user-xxxxxxxxxxxx'|
 | `base_url` | 字符串   | MaxKB 地址 | `https://<MaxKB_URL>/PORT` |
+
+
+## 支持
+
+如有有其他文件处理需求或问题，请联系我们：jiangshiwei@microbaton.com
