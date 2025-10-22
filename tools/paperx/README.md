@@ -11,7 +11,7 @@
 
 ## 应用示例
 
-！[应用示例](https://microbaton-hd.oss-cn-hangzhou.aliyuncs.com/maxkb/wechat_2025-10-22_203234_890.png "应用示例")
+！[应用示例](https://notificationoss.microbaton.com/maxkb/wechat_2025-10-22_203234_890.png "应用示例")
 
 
 ## 参数说明
