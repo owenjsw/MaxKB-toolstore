@@ -18,6 +18,7 @@
 
 ```bash
 pip install PyMuPDF
+pip install requests
 ```
 ## 参数说明
 
